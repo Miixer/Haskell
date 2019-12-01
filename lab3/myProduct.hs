@@ -1,3 +1,5 @@
+-- Multiplies all elements of a list of integers.
+
 -- Statements
 -- myProduct :: [Int] -> Int
 -- myProduct [] = 1
